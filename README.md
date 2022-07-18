@@ -52,7 +52,7 @@ Gazebo worlds are included under [`model_config/worlds`](model_config/worlds). T
 
 A simple square world without any static obstacles (other than the walls); any other obstacles are added on the fly at randomised positions. The world with the robot and two randomly added obstacles is shown below.
 
-![square world](docs/square_world.png)
+![square world](square_world.png)
 
 ### Object models
 
