@@ -104,7 +104,3 @@ Test scripts that illustrate the environment use and should run out of the box c
 * The [`ropod simulation`](https://github.com/ropod-project/ropod_sim_model)
 * `rospkg`
 * `termcolor`
-
-## Acknowledgments
-
-The implementation is heavily based on [this Toyota HSR gym environment](https://github.com/ascane/gym-gazebo-hsr)
