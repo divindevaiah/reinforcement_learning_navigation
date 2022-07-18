@@ -1,4 +1,4 @@
-# gym-ropod
+# Reinforcement learning for robot navigation
 
 Defines a Gazebo-based OpenAI gym environment for a ROPOD robot.
 
